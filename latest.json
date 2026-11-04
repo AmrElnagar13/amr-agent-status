@@ -1,1 +1,1 @@
-{"state": "test", "beat_ms": 1793818379432, "note": "\u0642\u0646\u0627\u0629 \u0627\u0644\u062d\u0627\u0644\u0629 \u0634\u063a\u0627\u0644\u0629"}
+{"state": "awake", "beat_ms": 1793818542002, "start_ms": 1793818542002, "death_ms": 1793859942002, "remain_ms": 36000000, "url": "https://test-url.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "test"}
