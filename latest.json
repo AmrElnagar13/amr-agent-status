@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1793824143338, "start_ms": 1793824133787, "death_ms": 1793865533787, "remain_ms": 41397586, "url": "https://sensors-viii-keeps-address.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-08e58dbb3a"}
+{"state": "awake", "beat_ms": 1793825971123, "start_ms": 1793824133787, "death_ms": 1793865533787, "remain_ms": 39569099, "url": "https://sensors-viii-keeps-address.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-08e58dbb3a"}
