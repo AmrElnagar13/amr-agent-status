@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1793964814652, "start_ms": 1793964814652, "death_ms": 1794006214652, "remain_ms": 41400000, "url": "https://represent-lime-shark-ware.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-ceee33e4fe"}
+{"state": "awake", "beat_ms": 1793966646481, "start_ms": 1793964814652, "death_ms": 1794006214652, "remain_ms": 39568171, "url": "https://represent-lime-shark-ware.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-ceee33e4fe"}
