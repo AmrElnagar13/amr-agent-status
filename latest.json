@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794084908110, "start_ms": 1794083081620, "death_ms": 1794124481620, "remain_ms": 39573510, "url": "https://dem-hitting-wherever-backup.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-c003fdc506"}
+{"state": "awake", "beat_ms": 1794086709768, "start_ms": 1794083081620, "death_ms": 1794124481620, "remain_ms": 37771852, "url": "https://dem-hitting-wherever-backup.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-c003fdc506"}
