@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794055349352, "start_ms": 1794055349352, "death_ms": 1794096749352, "remain_ms": 41400000, "url": "https://royalty-practice-cedar-signatures.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-1b231d7cfe"}
+{"state": "awake", "beat_ms": 1794059350237, "start_ms": 1794059350237, "death_ms": 1794100750237, "remain_ms": 41400000, "url": "https://shot-reached-space-robinson.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-e3e65bf208"}
