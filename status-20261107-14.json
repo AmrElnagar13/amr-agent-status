@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794060550468, "start_ms": 1794059542526, "death_ms": 1794100942526, "remain_ms": 40392058, "url": "https://shot-reached-space-robinson.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-f16fda6a1d"}
+{"state": "awake", "beat_ms": 1794060633343, "start_ms": 1794059542526, "death_ms": 1794100942526, "remain_ms": 40309183, "url": "https://shot-reached-space-robinson.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-f16fda6a1d"}
