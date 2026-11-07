@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794068991190, "start_ms": 1794065363797, "death_ms": 1794106763797, "remain_ms": 37772607, "url": "https://enabling-logic-obj-annie.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-58f277e237"}
+{"state": "awake", "beat_ms": 1794070559954, "start_ms": 1794070559954, "death_ms": 1794111959954, "remain_ms": 41400000, "url": "https://enabling-logic-obj-annie.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-0798a546f2"}
