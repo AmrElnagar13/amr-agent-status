@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794175963907, "start_ms": 1794170538541, "death_ms": 1794211938541, "remain_ms": 35974634, "url": "https://began-throwing-metro-timer.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-65e0f01b60"}
+{"state": "awake", "beat_ms": 1794177559520, "start_ms": 1794177559520, "death_ms": 1794218959520, "remain_ms": 41400000, "url": "https://began-throwing-metro-timer.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-ea821fcd03"}
