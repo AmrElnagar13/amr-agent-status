@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794294285799, "start_ms": 1794294285799, "death_ms": 1794335685799, "remain_ms": 41400000, "url": "https://brick-doctor-nicole-synthetic.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-3fe706087d"}
+{"state": "awake", "beat_ms": 1794294421874, "start_ms": 1794294421874, "death_ms": 1794335821874, "remain_ms": 41400000, "url": "https://providence-utc-gray-committed.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-28cc8697aa"}
