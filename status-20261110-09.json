@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794302147965, "start_ms": 1794302147965, "death_ms": 1794343547965, "remain_ms": 41400000, "url": "https://achieving-laser-radar-engaged.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-1d1215aa7c"}
+{"state": "awake", "beat_ms": 1794302833270, "start_ms": 1794302833269, "death_ms": 1794344233269, "remain_ms": 41399999, "url": "https://achieving-laser-radar-engaged.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-5c1bd8da13"}
