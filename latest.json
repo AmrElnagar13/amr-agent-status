@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794439561975, "start_ms": 1794439561975, "death_ms": 1794480961975, "remain_ms": 41400000, "url": "https://usgs-lists-meter-frontier.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-eba6bb83b5"}
+{"state": "awake", "beat_ms": 1794439880866, "start_ms": 1794439880866, "death_ms": 1794481280866, "remain_ms": 41400000, "url": "https://usgs-lists-meter-frontier.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-d4e2c1c5e8"}
