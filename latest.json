@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794609440508, "start_ms": 1794593150536, "death_ms": 1794634550536, "remain_ms": 25110028, "url": "https://residential-jackson-mpeg-two.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-16949283a2"}
+{"state": "awake", "beat_ms": 1794611255671, "start_ms": 1794593150536, "death_ms": 1794634550536, "remain_ms": 23294865, "url": "https://residential-jackson-mpeg-two.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-16949283a2"}
