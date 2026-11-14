@@ -1,1 +1,1 @@
-{"state": "awake", "beat_ms": 1794691160772, "start_ms": 1794691160149, "death_ms": 1794732560149, "remain_ms": 41399377, "url": "https://artistic-intent-leone-allocated.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-b3767362ba"}
+{"state": "awake", "beat_ms": 1794692981168, "start_ms": 1794691160149, "death_ms": 1794732560149, "remain_ms": 39578981, "url": "https://artistic-intent-leone-allocated.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true}, "topic": "amr-agent-b3767362ba"}
