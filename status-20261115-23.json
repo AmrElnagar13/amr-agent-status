@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1794783776023, "start_ms": 1794783775546, "death_ms": 1794825175546, "remain_ms": 41399523, "url": "https://avatar-doe-alliance-annually.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-04c261fbd2"}
