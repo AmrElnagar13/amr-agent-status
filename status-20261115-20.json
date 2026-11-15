@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1794774701954, "start_ms": 1794774701083, "death_ms": 1794816101083, "remain_ms": 41399129, "url": "https://experimental-constraints-bless-management.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-e0755a331c"}
