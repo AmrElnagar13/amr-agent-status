@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1794723064549, "start_ms": 1794723063776, "death_ms": 1794764463776, "remain_ms": 41399227, "url": "https://concord-jill-thinks-coordination.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-35855da3d9"}
