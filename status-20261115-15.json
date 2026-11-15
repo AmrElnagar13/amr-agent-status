@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1794755888569, "start_ms": 1794755888307, "death_ms": 1794797288307, "remain_ms": 41399738, "url": "https://pdf-ata-seat-connection.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-82c4041d18"}
