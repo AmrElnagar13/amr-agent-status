@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1794816673074, "start_ms": 1794814852411, "death_ms": 1794856252411, "remain_ms": 39579337, "url": "https://tablets-transmission-ensemble-individually.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-d866c42951"}
