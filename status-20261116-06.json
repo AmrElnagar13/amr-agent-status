@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1794810261446, "start_ms": 1794810261085, "death_ms": 1794851661085, "remain_ms": 41399639, "url": "https://coastal-automation-bedford-disco.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-676a40e269"}
