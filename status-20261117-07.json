@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1794898956043, "start_ms": 1794898955703, "death_ms": 1794940355703, "remain_ms": 41399660, "url": "https://strongly-routing-stops-contributors.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-fe5f7a6faa"}
