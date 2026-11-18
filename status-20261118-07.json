@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1794986229278, "start_ms": 1794986228807, "death_ms": 1795027628807, "remain_ms": 41399529, "url": "https://followed-dayton-daniel-sixth.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-4f35eaa607"}
