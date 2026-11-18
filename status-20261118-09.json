@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1794992778373, "start_ms": 1794992777913, "death_ms": 1795034177913, "remain_ms": 41399540, "url": "https://document-coordination-collaboration-fell.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-7291db7bcc"}
