@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1795076189547, "start_ms": 1795074368347, "death_ms": 1795115768347, "remain_ms": 39578800, "url": "https://four-outputs-temperatures-counsel.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-025dfe8599"}
