@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1795187869415, "start_ms": 1795187869142, "death_ms": 1795229269142, "remain_ms": 41399727, "url": "https://tradition-brain-sydney-glasses.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-b3cd2d80ad"}
