@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1795292142706, "start_ms": 1795292138968, "death_ms": 1795333538968, "remain_ms": 41396262, "url": "https://basename-pamela-sees-announces.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-70f1158269"}
