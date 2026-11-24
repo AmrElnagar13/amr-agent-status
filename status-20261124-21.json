@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1795554179143, "start_ms": 1795554178996, "death_ms": 1795595578996, "remain_ms": 41399853, "url": "https://graphic-amenities-mysql-gen.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-0ca6186e36"}
