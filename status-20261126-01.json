@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1795655682853, "start_ms": 1795648441889, "death_ms": 1795689841889, "remain_ms": 34159036, "url": "https://correspondence-effectiveness-run-exclusive.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-96aff1c0ba"}
