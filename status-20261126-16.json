@@ -1,0 +1,1 @@
+{"state": "awake", "beat_ms": 1795709602273, "start_ms": 1795707780565, "death_ms": 1795749180565, "remain_ms": 39578292, "url": "https://portrait-wine-cope-comprehensive.trycloudflare.com", "services": {"app": true, "gw": true, "tts": true, "engine": true, "ollama": false}, "topic": "amr-agent-821eb0aa43"}
